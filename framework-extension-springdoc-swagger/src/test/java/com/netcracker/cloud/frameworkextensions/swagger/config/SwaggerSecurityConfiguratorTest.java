@@ -15,10 +15,10 @@ import org.springframework.test.context.junit.jupiter.SpringExtension;
 import java.util.HashMap;
 import java.util.Map;
 
-import static org.qubership.cloud.frameworkextensions.swagger.config.SwaggerAuthConfiguration.*;
-import static org.qubership.cloud.frameworkextensions.swagger.config.SwaggerSecurityConfigurator.SPRINGDOC_SWAGGER_UI_OAUTH_CLIENT_ID;
-import static org.qubership.cloud.frameworkextensions.swagger.config.SwaggerSecurityConfigurator.SPRINGDOC_SWAGGER_UI_OAUTH_CLIENT_SECRET;
-import static org.qubership.cloud.frameworkextensions.swagger.config.TestConfiguration.TEST_SCHEME;
+import static com.netcracker.cloud.frameworkextensions.swagger.config.SwaggerAuthConfiguration.*;
+import static com.netcracker.cloud.frameworkextensions.swagger.config.SwaggerSecurityConfigurator.SPRINGDOC_SWAGGER_UI_OAUTH_CLIENT_ID;
+import static com.netcracker.cloud.frameworkextensions.swagger.config.SwaggerSecurityConfigurator.SPRINGDOC_SWAGGER_UI_OAUTH_CLIENT_SECRET;
+import static com.netcracker.cloud.frameworkextensions.swagger.config.TestConfiguration.TEST_SCHEME;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 

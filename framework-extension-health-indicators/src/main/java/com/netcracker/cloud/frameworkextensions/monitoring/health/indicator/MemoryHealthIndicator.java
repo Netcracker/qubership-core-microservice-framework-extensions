@@ -1,6 +1,6 @@
 package com.netcracker.cloud.frameworkextensions.monitoring.health.indicator;
 
-import org.qubership.cloud.frameworkextensions.monitoring.health.HealthStatus;
+import com.netcracker.cloud.frameworkextensions.monitoring.health.HealthStatus;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.actuate.health.Health;
 import org.springframework.boot.actuate.health.HealthIndicator;

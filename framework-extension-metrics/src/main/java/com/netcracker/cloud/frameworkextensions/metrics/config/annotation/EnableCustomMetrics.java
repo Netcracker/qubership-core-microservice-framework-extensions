@@ -1,6 +1,6 @@
 package com.netcracker.cloud.frameworkextensions.metrics.config.annotation;
 
-import org.qubership.cloud.frameworkextensions.metrics.config.CustomDelegatingMetricsConfiguration;
+import com.netcracker.cloud.frameworkextensions.metrics.config.CustomDelegatingMetricsConfiguration;
 import org.springframework.context.annotation.Import;
 
 import java.lang.annotation.ElementType;
