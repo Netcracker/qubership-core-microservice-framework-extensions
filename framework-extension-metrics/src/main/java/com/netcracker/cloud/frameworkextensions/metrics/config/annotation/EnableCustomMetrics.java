@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.metrics.config.annotation;
+package com.netcracker.cloud.frameworkextensions.metrics.config.annotation;
 
 import org.qubership.cloud.frameworkextensions.metrics.config.CustomDelegatingMetricsConfiguration;
 import org.springframework.context.annotation.Import;

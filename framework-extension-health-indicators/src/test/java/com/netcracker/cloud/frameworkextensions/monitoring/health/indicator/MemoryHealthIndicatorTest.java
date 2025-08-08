@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.monitoring.health.indicator;
+package com.netcracker.cloud.frameworkextensions.monitoring.health.indicator;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.monitoring.health.indicator;
+package com.netcracker.cloud.frameworkextensions.monitoring.health.indicator;
 
 import lombok.extern.slf4j.Slf4j;
 import org.qubership.cloud.frameworkextensions.monitoring.health.HealthStatus;

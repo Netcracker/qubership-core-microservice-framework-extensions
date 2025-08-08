@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.swagger.config;
+package com.netcracker.cloud.frameworkextensions.swagger.config;
 
 
 import lombok.extern.slf4j.Slf4j;

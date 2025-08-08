@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.monitoring.health;
+package com.netcracker.cloud.frameworkextensions.monitoring.health;
 
 import lombok.Data;
 

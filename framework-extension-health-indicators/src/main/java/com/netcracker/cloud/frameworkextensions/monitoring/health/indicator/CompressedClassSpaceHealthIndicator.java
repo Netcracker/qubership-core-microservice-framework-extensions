@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.monitoring.health.indicator;
+package com.netcracker.cloud.frameworkextensions.monitoring.health.indicator;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;

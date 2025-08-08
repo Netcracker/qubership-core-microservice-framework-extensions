@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.metrics.config;
+package com.netcracker.cloud.frameworkextensions.metrics.config;
 
 import com.ryantenney.metrics.spring.config.annotation.DelegatingMetricsConfiguration;
 import com.ryantenney.metrics.spring.config.annotation.MetricsConfigurer;

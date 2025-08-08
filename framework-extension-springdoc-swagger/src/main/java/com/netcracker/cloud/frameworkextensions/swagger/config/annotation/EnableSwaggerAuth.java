@@ -1,4 +1,4 @@
-package org.qubership.cloud.frameworkextensions.swagger.config.annotation;
+package com.netcracker.cloud.frameworkextensions.swagger.config.annotation;
 
 import org.qubership.cloud.frameworkextensions.swagger.config.SwaggerAuthConfiguration;
 import org.springframework.context.annotation.Import;
