@@ -1,15 +1,7 @@
-[![Maven build](https://github.com/Netcracker/qubership-core-microservice-framework-extensions/actions/workflows/maven-deploy.yml/badge.svg)](https://github.com/Netcracker/qubership-core-microservice-framework-extensions/actions/workflows/maven-deploy.yml)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?metric=coverage&project=Netcracker_qubership-core-microservice-framework-extensions)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-core-microservice-framework-extensions)
-[![duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?metric=duplicated_lines_density&project=Netcracker_qubership-core-microservice-framework-extensions)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-core-microservice-framework-extensions)
-[![vulnerabilities](https://sonarcloud.io/api/project_badges/measure?metric=vulnerabilities&project=Netcracker_qubership-core-microservice-framework-extensions)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-core-microservice-framework-extensions)
-[![bugs](https://sonarcloud.io/api/project_badges/measure?metric=bugs&project=Netcracker_qubership-core-microservice-framework-extensions)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-core-microservice-framework-extensions)
-[![code_smells](https://sonarcloud.io/api/project_badges/measure?metric=code_smells&project=Netcracker_qubership-core-microservice-framework-extensions)](https://sonarcloud.io/summary/overall?id=Netcracker_qubership-core-microservice-framework-extensions)
+# Archived
 
-microservice-framework-extensions
----------------------------------
+This repository is archived. No new commits should be made here.
 
-microservice-framework-extensions contains libraries witch extend microservice-framework functionality and bring some features.
+All source code and git history has been moved to the monorepo [qubership-core-java-libs](https://github.com/Netcracker/qubership-core-java-libs/).
 
-Deprecated
------
-`framework-extension-springfox-swagger` module is deprecated and deleted. `framework-extension-springdoc-swagger` should be used instead.
+> **Note:** This repository is preserved solely for publishing Maven artifacts. Please do not delete it.
